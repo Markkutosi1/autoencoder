@@ -1,2 +1,3 @@
 # autoencoder
-autoencoder
+autoencoder using swahili dataset
+
